@@ -1,4 +1,4 @@
-# Dicionário em C++
+# Dicionário com tamanho limitado e inserção/remoção ordenados em C++
 
 Este projeto implementa um dicionário simples em C++. O dicionário armazena pares de chave-valor, onde as chaves são caracteres e os valores são números de ponto flutuante.
 
